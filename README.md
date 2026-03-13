@@ -7,7 +7,8 @@
 
 ## 📖 文档
 
-- [完整配置手册](./CLI-ANYTHING-AGENT-GUIDE.md) - 详细的配置指南和最佳实践
+- [CLI-Anything 配置手册](./CLI-ANYTHING-AGENT-GUIDE.md) - CLI 工具创建指南
+- [MCP Chrome DevTools 配置手册](./MCP-CHROME-DEVTOOLS-GUIDE.md) - 浏览器自动化配置指南
 
 ## 🛠️ 包含的工具
 
@@ -18,6 +19,7 @@
 | **Image CLI** | `img-cli.py` | 图片压缩、调整大小、水印、格式转换 |
 | **Knowledge Base CLI** | `kb-cli.py` | 知识库管理、标签、搜索、导出 |
 | **Diagram CLI** | `diagram-cli.py` | 流程图、架构图、时序图、思维导图 |
+| **MCP Chrome** | MCP Server | 浏览器控制、网页自动化、性能分析 |
 
 ## 🚀 快速开始
 
